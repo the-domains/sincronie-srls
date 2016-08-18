@@ -12,5 +12,9 @@ color:
     - '#0059A8'
 layout_spectrum: 0.025991801405325532
 name: Sincronie srls
+navigation:
+  - name: Chi siamo
+    id: 4e17c6cf-4dc8-4042-835a-287df6be36d1
+    type: content
 title: Sincronie
 description: Tutto quello che serve per realizzare i tuoi progetti
